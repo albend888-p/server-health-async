@@ -122,3 +122,8 @@ const options = {
 const nodeServer = serverHealth.createNodeHttpHealthCheckServer(options);
 nodeServer.listen(8080);
 ```
+
+### Async
+
+Async mode is updating
+
