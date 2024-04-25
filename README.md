@@ -1,4 +1,4 @@
-# Server Health
+# Server Health Beta 2.1
 
 [![NPM](https://nodei.co/npm/server-health.png?downloads=true)](https://nodei.co/npm/server-health/)
 
